@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Stanley","place":"city","population":2460,"tier":2},"geometry":{"type":"Point","coordinates":[-57.856525,-51.6930616]}},{"type":"Feature","properties":{"name":"Goose Green","place":"village","population":40,"tier":2},"geometry":{"type":"Point","coordinates":[-58.9728075,-51.8276788]}}]}
