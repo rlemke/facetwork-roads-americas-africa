@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Kazaure","place":"town","population":700000,"tier":2},"geometry":{"type":"Point","coordinates":[8.4148078,12.6538218]}},{"type":"Feature","properties":{"name":"Dutse","place":"town","population":17697,"tier":2},"geometry":{"type":"Point","coordinates":[9.3390747,11.6909859]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Fermont","place":"town","population":2400,"tier":2},"geometry":{"type":"Point","coordinates":[-67.0881005,52.7984163]}},{"type":"Feature","properties":{"name":"Schefferville","place":"town","population":237,"tier":2},"geometry":{"type":"Point","coordinates":[-66.820626,54.8005133]}}]}

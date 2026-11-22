@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"St. George's","place":"town","population":1527,"tier":2},"geometry":{"type":"Point","coordinates":[-64.676717,32.3810447]}},{"type":"Feature","properties":{"name":"Hamilton","place":"city","population":854,"tier":2},"geometry":{"type":"Point","coordinates":[-64.7853167,32.2942679]}}]}

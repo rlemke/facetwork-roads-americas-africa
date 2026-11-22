@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Brighton","place":"town","population":12108,"tier":2},"geometry":{"type":"Point","coordinates":[-77.7370071,44.0422275]}},{"type":"Feature","properties":{"name":"Colborne","place":"village","population":6073,"tier":2},"geometry":{"type":"Point","coordinates":[-77.8879789,44.0050196]}}]}

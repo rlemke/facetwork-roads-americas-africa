@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Mississauga","place":"city","population":717961,"tier":2},"geometry":{"type":"Point","coordinates":[-79.643658,43.5884727]}},{"type":"Feature","properties":{"name":"Brampton","place":"city","population":656480,"tier":2},"geometry":{"type":"Point","coordinates":[-79.7599366,43.685832]}}]}

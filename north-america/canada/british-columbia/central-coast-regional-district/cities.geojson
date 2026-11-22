@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Bella Coola","place":"town","population":1919,"tier":2},"geometry":{"type":"Point","coordinates":[-126.7556778,52.3723035]}},{"type":"Feature","properties":{"name":"Shearwater","place":"hamlet","population":50,"tier":2},"geometry":{"type":"Point","coordinates":[-128.090592,52.1478128]}}]}

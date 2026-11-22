@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Matane","place":"city","population":13987,"tier":2},"geometry":{"type":"Point","coordinates":[-67.5295198,48.8468883]}},{"type":"Feature","properties":{"name":"Baie-des-Sables","place":"village","population":609,"tier":2},"geometry":{"type":"Point","coordinates":[-67.8974914,48.721036]}}]}

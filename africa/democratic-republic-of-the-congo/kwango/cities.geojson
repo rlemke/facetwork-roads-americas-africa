@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Matari","place":"town","population":5000,"tier":2},"geometry":{"type":"Point","coordinates":[17.6436517,-6.1630376]}},{"type":"Feature","properties":{"name":"Luzau village","place":"village","population":200,"tier":2},"geometry":{"type":"Point","coordinates":[16.7687415,-4.8858163]}}]}

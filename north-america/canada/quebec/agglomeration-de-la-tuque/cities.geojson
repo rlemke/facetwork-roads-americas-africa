@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"La Tuque","place":"town","population":11129,"tier":2},"geometry":{"type":"Point","coordinates":[-72.78511,47.441092]}},{"type":"Feature","properties":{"name":"Clova","place":"hamlet","population":60,"tier":2},"geometry":{"type":"Point","coordinates":[-75.3601972,48.1090188]}}]}

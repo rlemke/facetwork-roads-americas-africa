@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Smithers","place":"town","population":5404,"tier":2},"geometry":{"type":"Point","coordinates":[-127.1760991,54.7792074]}},{"type":"Feature","properties":{"name":"Vanderhoof","place":"town","population":4480,"tier":2},"geometry":{"type":"Point","coordinates":[-124.0076627,54.0175289]}}]}

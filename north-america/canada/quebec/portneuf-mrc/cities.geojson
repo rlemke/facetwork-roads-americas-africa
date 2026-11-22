@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Neuville","place":"village","population":4475,"tier":2},"geometry":{"type":"Point","coordinates":[-71.584854,46.698199]}},{"type":"Feature","properties":{"name":"Cap-Sant\u00e9","place":"village","population":3594,"tier":3},"geometry":{"type":"Point","coordinates":[-71.7751288,46.6701717]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Temiskaming Shores","place":"city","population":10400,"tier":2},"geometry":{"type":"Point","coordinates":[-79.675598,47.512563]}},{"type":"Feature","properties":{"name":"Earlton","place":"village","population":1216,"tier":2},"geometry":{"type":"Point","coordinates":[-79.8244011,47.7110111]}}]}

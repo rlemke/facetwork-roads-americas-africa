@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Saint-Pierre","place":"village","population":5340,"tier":2},"geometry":{"type":"Point","coordinates":[-56.1768672,46.7775497]}},{"type":"Feature","properties":{"name":"Miquelon-Langlade","place":"village","population":624,"tier":2},"geometry":{"type":"Point","coordinates":[-56.3799059,47.1017503]}}]}

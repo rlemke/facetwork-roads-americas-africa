@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Inongo","place":"town","population":46657,"tier":2},"geometry":{"type":"Point","coordinates":[18.2863998,-1.9253353]}},{"type":"Feature","properties":{"name":"Bolobo","place":"city","population":31366,"tier":2},"geometry":{"type":"Point","coordinates":[16.23333,-2.166682]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Calabar","place":"city","population":371022,"tier":2},"geometry":{"type":"Point","coordinates":[8.3373597,4.9795999]}},{"type":"Feature","properties":{"name":"Ekori Beach","place":"village","population":20000,"tier":2},"geometry":{"type":"Point","coordinates":[8.1042055,5.9284605]}}]}

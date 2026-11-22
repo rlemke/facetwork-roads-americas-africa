@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Napanee","place":"town","population":15892,"tier":2},"geometry":{"type":"Point","coordinates":[-76.9505543,44.2473883]}},{"type":"Feature","properties":{"name":"Northbrook","place":"village","population":350,"tier":2},"geometry":{"type":"Point","coordinates":[-77.1593007,44.7338959]}}]}

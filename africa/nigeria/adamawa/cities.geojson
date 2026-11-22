@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Yola","place":"city","population":336648,"tier":2},"geometry":{"type":"Point","coordinates":[12.4802485,9.2089255]}},{"type":"Feature","properties":{"name":"Mubi","place":"city","population":225705,"tier":2},"geometry":{"type":"Point","coordinates":[13.264359,10.267607]}}]}

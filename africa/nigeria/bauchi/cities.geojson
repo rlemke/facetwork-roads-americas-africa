@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Bauchi","place":"city","population":316173,"tier":2},"geometry":{"type":"Point","coordinates":[9.8454417,10.3147618]}},{"type":"Feature","properties":{"name":"Azare","place":"town","population":110452,"tier":2},"geometry":{"type":"Point","coordinates":[10.1918308,11.6729045]}}]}

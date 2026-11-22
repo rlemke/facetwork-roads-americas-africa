@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Makurdi","place":"city","population":500797,"tier":2},"geometry":{"type":"Point","coordinates":[8.538425,7.7312634]}},{"type":"Feature","properties":{"name":"Ajio","place":"town","population":20,"tier":2},"geometry":{"type":"Point","coordinates":[9.2155466,6.8056119]}}]}

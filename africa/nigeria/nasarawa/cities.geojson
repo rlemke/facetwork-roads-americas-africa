@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Lafia","place":"city","population":509300,"tier":2},"geometry":{"type":"Point","coordinates":[8.5147636,8.4960459]}},{"type":"Feature","properties":{"name":"Doma","place":"city","population":214600,"tier":3},"geometry":{"type":"Point","coordinates":[8.3565453,8.3922968]}}]}

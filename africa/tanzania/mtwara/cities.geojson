@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Mtwara","place":"city","population":140793,"tier":2},"geometry":{"type":"Point","coordinates":[40.1789136,-10.2838146]}},{"type":"Feature","properties":{"name":"Masasi","place":"town","population":89700,"tier":2},"geometry":{"type":"Point","coordinates":[38.8052732,-10.7283309]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Orangeville","place":"town","population":27975,"tier":2},"geometry":{"type":"Point","coordinates":[-80.0973754,43.9193171]}},{"type":"Feature","properties":{"name":"Mono","place":"village","population":8609,"tier":7},"geometry":{"type":"Point","coordinates":[-80.1042319,43.9462199]}}]}

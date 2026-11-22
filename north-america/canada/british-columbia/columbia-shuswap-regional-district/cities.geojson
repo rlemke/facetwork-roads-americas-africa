@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Salmon Arm","place":"town","population":17464,"tier":2},"geometry":{"type":"Point","coordinates":[-119.2790529,50.7005059]}},{"type":"Feature","properties":{"name":"Revelstoke","place":"city","population":8275,"tier":2},"geometry":{"type":"Point","coordinates":[-118.1956709,50.998045]}}]}

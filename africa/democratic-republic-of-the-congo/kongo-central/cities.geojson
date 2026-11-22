@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Boma","place":"city","population":162521,"tier":2},"geometry":{"type":"Point","coordinates":[13.05,-5.85]}},{"type":"Feature","properties":{"name":"Village Lemvo","place":"village","population":150,"tier":2},"geometry":{"type":"Point","coordinates":[12.3914948,-5.9934476]}}]}

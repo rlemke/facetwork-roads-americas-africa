@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Road Town","place":"city","population":12603,"tier":2},"geometry":{"type":"Point","coordinates":[-64.6230914,18.425766]}},{"type":"Feature","properties":{"name":"Spanish Town","place":"town","population":3930,"tier":2},"geometry":{"type":"Point","coordinates":[-64.4346277,18.4463642]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Granby","place":"city","population":69025,"tier":2},"geometry":{"type":"Point","coordinates":[-72.721834,45.3990409]}},{"type":"Feature","properties":{"name":"Waterloo","place":"town","population":4500,"tier":2},"geometry":{"type":"Point","coordinates":[-72.5162169,45.3441569]}}]}

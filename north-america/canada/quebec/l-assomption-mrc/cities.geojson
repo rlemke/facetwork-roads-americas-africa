@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Repentigny","place":"town","population":84285,"tier":2},"geometry":{"type":"Point","coordinates":[-73.4528307,45.7326055]}},{"type":"Feature","properties":{"name":"L'Assomption","place":"town","population":22429,"tier":2},"geometry":{"type":"Point","coordinates":[-73.4222086,45.8307051]}}]}

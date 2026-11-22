@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Kearney","place":"village","population":882,"tier":2},"geometry":{"type":"Point","coordinates":[-79.2240995,45.5554837]}},{"type":"Feature","properties":{"name":"Dokis First Nation","place":"village","population":204,"tier":2},"geometry":{"type":"Point","coordinates":[-80.0289811,46.1300532]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Thunder Bay","place":"city","population":108359,"tier":2},"geometry":{"type":"Point","coordinates":[-89.259796,48.406414]}},{"type":"Feature","properties":{"name":"Sunshine","place":"hamlet","population":15,"tier":3},"geometry":{"type":"Point","coordinates":[-89.6862749,48.5436273]}}]}

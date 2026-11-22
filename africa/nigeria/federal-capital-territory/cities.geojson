@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Abuja","place":"city","population":776298,"tier":2},"geometry":{"type":"Point","coordinates":[7.4892974,9.0643305]}},{"type":"Feature","properties":{"name":"Dutsen Alhaji","place":"town","population":500100,"tier":2},"geometry":{"type":"Point","coordinates":[7.3726609,9.1399589]}}]}

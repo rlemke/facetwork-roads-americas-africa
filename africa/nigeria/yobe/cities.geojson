@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Potiskum","place":"city","population":205876,"tier":2},"geometry":{"type":"Point","coordinates":[11.0762744,11.7122553]}},{"type":"Feature","properties":{"name":"Damaturu","place":"town","population":88014,"tier":2},"geometry":{"type":"Point","coordinates":[11.9608,11.747]}}]}

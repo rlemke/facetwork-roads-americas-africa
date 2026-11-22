@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Amqui","place":"town","population":5999,"tier":2},"geometry":{"type":"Point","coordinates":[-67.4315171,48.4656706]}},{"type":"Feature","properties":{"name":"Sayabec","place":"village","population":1845,"tier":2},"geometry":{"type":"Point","coordinates":[-67.688141,48.566157]}}]}

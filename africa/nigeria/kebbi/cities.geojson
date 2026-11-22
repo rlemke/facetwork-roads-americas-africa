@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Birnin Kebbi","place":"town","population":125594,"tier":2},"geometry":{"type":"Point","coordinates":[4.2006114,12.4573462]}},{"type":"Feature","properties":{"name":"Bagudo","place":"town","population":8845,"tier":2},"geometry":{"type":"Point","coordinates":[4.2277586,11.4040393]}}]}

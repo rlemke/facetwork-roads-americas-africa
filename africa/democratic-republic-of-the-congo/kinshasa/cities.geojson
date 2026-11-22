@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Kinshasa","place":"city","population":17032322,"tier":2},"geometry":{"type":"Point","coordinates":[15.3122511,-4.32171]}},{"type":"Feature","properties":{"name":"Mbankana","place":"town","population":15200,"tier":2},"geometry":{"type":"Point","coordinates":[16.1994431,-4.4491551]}}]}

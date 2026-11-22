@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Bracebridge","place":"town","population":15414,"tier":2},"geometry":{"type":"Point","coordinates":[-79.310989,45.041508]}},{"type":"Feature","properties":{"name":"Dorset","place":"village","population":400,"tier":2},"geometry":{"type":"Point","coordinates":[-78.8939357,45.2438734]}}]}

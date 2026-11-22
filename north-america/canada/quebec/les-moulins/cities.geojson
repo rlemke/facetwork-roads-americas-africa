@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Terrebonne","place":"town","population":111575,"tier":2},"geometry":{"type":"Point","coordinates":[-73.6350148,45.6951527]}},{"type":"Feature","properties":{"name":"Mascouche","place":"town","population":46692,"tier":2},"geometry":{"type":"Point","coordinates":[-73.6005591,45.7453521]}}]}

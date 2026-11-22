@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Plessisville","place":"town","population":9069,"tier":2},"geometry":{"type":"Point","coordinates":[-71.771965,46.219515]}},{"type":"Feature","properties":{"name":"Princeville","place":"village","population":6356,"tier":2},"geometry":{"type":"Point","coordinates":[-71.8751852,46.1722898]}}]}

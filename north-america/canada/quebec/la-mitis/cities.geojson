@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Mont-Joli","place":"town","population":6384,"tier":2},"geometry":{"type":"Point","coordinates":[-68.183899,48.583875]}},{"type":"Feature","properties":{"name":"Saint-Octave-de-M\u00e9tis","place":"village","population":520,"tier":3},"geometry":{"type":"Point","coordinates":[-68.080215,48.601133]}}]}

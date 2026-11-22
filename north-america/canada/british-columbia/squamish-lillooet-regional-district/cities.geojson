@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Squamish","place":"city","population":23819,"tier":2},"geometry":{"type":"Point","coordinates":[-123.155861,49.6980743]}},{"type":"Feature","properties":{"name":"Whistler","place":"town","population":9824,"tier":2},"geometry":{"type":"Point","coordinates":[-122.9543022,50.1171903]}}]}

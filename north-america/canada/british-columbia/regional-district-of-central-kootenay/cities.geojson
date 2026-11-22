@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Nelson","place":"city","population":11198,"tier":2},"geometry":{"type":"Point","coordinates":[-117.290039,49.494891]}},{"type":"Feature","properties":{"name":"Castlegar","place":"city","population":8338,"tier":2},"geometry":{"type":"Point","coordinates":[-117.6668053,49.3249917]}}]}

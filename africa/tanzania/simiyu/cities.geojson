@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Bariadi","place":"city","population":260927,"tier":2},"geometry":{"type":"Point","coordinates":[33.9869932,-2.8035487]}},{"type":"Feature","properties":{"name":"Bubinza","place":"village","population":5062,"tier":2},"geometry":{"type":"Point","coordinates":[33.5015765,-2.5435531]}}]}

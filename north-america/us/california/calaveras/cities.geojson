@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Arnold","place":"village","population":3843,"tier":2},"geometry":{"type":"Point","coordinates":[-120.35103,38.2554729]}},{"type":"Feature","properties":{"name":"Tamarack","place":"hamlet","population":9,"tier":2},"geometry":{"type":"Point","coordinates":[-120.0760211,38.4388012]}}]}

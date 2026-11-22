@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Crescent City","place":"town","population":7860,"tier":2},"geometry":{"type":"Point","coordinates":[-124.1978539,41.7522404]}},{"type":"Feature","properties":{"name":"Smith River","place":"village","population":866,"tier":2},"geometry":{"type":"Point","coordinates":[-124.1470274,41.9281678]}}]}

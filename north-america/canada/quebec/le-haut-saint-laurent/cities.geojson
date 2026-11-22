@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Ormstown","place":"village","population":3595,"tier":2},"geometry":{"type":"Point","coordinates":[-73.9922809,45.1255418]}},{"type":"Feature","properties":{"name":"Huntingdon","place":"village","population":2556,"tier":2},"geometry":{"type":"Point","coordinates":[-74.173851,45.087339]}}]}

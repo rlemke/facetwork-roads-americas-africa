@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Powell River","place":"city","population":13157,"tier":2},"geometry":{"type":"Point","coordinates":[-124.524412,49.835676]}},{"type":"Feature","properties":{"name":"Lasqueti","place":"hamlet","population":399,"tier":2},"geometry":{"type":"Point","coordinates":[-124.3493481,49.4909525]}}]}

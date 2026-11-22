@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Minna","place":"city","population":304000,"tier":2},"geometry":{"type":"Point","coordinates":[6.5475752,9.6187093]}},{"type":"Feature","properties":{"name":"Kusheriki","place":"village","population":34694,"tier":2},"geometry":{"type":"Point","coordinates":[6.4422232,10.5328313]}}]}

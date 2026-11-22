@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Yenagoa","place":"city","population":353344,"tier":2},"geometry":{"type":"Point","coordinates":[6.2747786,4.9334651]}},{"type":"Feature","properties":{"name":"Otuoke","place":"town","population":7000,"tier":3},"geometry":{"type":"Point","coordinates":[6.3133636,4.788543]}}]}

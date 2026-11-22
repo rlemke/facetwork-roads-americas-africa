@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Simcoe","place":"town","population":14777,"tier":2},"geometry":{"type":"Point","coordinates":[-80.3039146,42.8372434]}},{"type":"Feature","properties":{"name":"Delhi","place":"town","population":4240,"tier":2},"geometry":{"type":"Point","coordinates":[-80.4983709,42.8544957]}}]}

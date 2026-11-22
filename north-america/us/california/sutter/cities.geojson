@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Yuba City","place":"city","population":66941,"tier":2},"geometry":{"type":"Point","coordinates":[-121.6169108,39.1404477]}},{"type":"Feature","properties":{"name":"Live Oak","place":"town","population":8042,"tier":2},"geometry":{"type":"Point","coordinates":[-121.65997,39.2757232]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Lokoja","place":"town","population":90000,"tier":2},"geometry":{"type":"Point","coordinates":[6.7430327,7.802355]}},{"type":"Feature","properties":{"name":"Ajaokuta","place":"town","population":16039,"tier":3},"geometry":{"type":"Point","coordinates":[6.6291171,7.5639973]}}]}

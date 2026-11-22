@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Aba","place":"city","population":1020900,"tier":2},"geometry":{"type":"Point","coordinates":[7.3651376,5.1128008]}},{"type":"Feature","properties":{"name":"Umuodo","place":"village","population":6453,"tier":7},"geometry":{"type":"Point","coordinates":[7.333333,5.033333]}}]}

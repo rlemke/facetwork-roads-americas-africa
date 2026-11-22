@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Singida","place":"city","population":165492,"tier":2},"geometry":{"type":"Point","coordinates":[34.7498283,-4.8195746]}},{"type":"Feature","properties":{"name":"Mwanga","place":"village","population":3428,"tier":2},"geometry":{"type":"Point","coordinates":[34.9013583,-4.2743096]}}]}

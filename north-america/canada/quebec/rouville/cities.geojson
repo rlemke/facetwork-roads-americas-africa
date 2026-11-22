@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Marieville","place":"town","population":11332,"tier":2},"geometry":{"type":"Point","coordinates":[-73.1637449,45.4314173]}},{"type":"Feature","properties":{"name":"Richelieu","place":"town","population":5236,"tier":2},"geometry":{"type":"Point","coordinates":[-73.2488055,45.4439193]}}]}
